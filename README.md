@@ -21,7 +21,8 @@
 
   Copy this link and paste it on your browser Change mrsanon to your github username <br>
 ```
-  https://heroku.com/deploy?template=https://github.com/mrsanon/slasia
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thisan04/SL-ASIATA)
+
 ```  
       
 <div align="left">
