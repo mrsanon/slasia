@@ -48,7 +48,7 @@ global.linkig = 'https://www.instagram.com/neer_j_  '
 global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.git = 'https://github.com/mrsanon'
-global.web1 = 'https://neeraj-x0.github.io/'
+global.web1 = 'https://Thisan04.github.io/'
 global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
 //HEROKU  VARS
