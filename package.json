@@ -1,5 +1,5 @@
 {
-    "name": "millie-md",
+    "name": "SL-ASIATA",
     "version": "0.0.1",
     "description": "WhatsApp Bot Multi-Device",
     "depecrated": false,
@@ -23,16 +23,16 @@
         "wabot-aq",
         "millie-Md"
     ],
-    "homepage": "https://github.com/Neeraj-x0",
+    "homepage": "https://github.com/mrsanon",
     "author": {
-        "name": "Neeraj"
+        "name": "thisan"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Neeraj-x0.git"
+        "url": "git+https://github.com/mrsanon.git"
     },
     "bugs": {
-        "url": "https://github.com/Neeraj-x0/issues"
+        "url": "https://github.com/mrsanon/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
