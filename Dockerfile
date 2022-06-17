@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/mrsanon/slasia /slasia
+RUN git clone https://github.com/mrsanon/slasia /root/slasia
 
 WORKDIR /root/slasia/
 
