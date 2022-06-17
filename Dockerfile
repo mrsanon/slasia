@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/mrsanon/slasia /root/Neerajx0
+RUN git clone https://github.com/mrsanon/slasia /slasia
 
-WORKDIR /root/Neerajx0/
+WORKDIR /root/slasia/
 
 RUN apt-get update && \
   apt-get install -y \
